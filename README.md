@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
+
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Display Rack Manufacturer in Delhi | Bharat Display Solutions</title>
   <meta name="description" content="Bharat Display Solutions, Delhi: MS supermarket display racks and wall mount display racks for bulk orders. Price on quotation.">
@@ -77,7 +74,7 @@
 <p>Prices are shared after a quotation based on your size, quantity and requirement.</p>
 
 <h3>Where are you located?</h3>
-<p>Delhi. Full address: [add]</p>
+<p>Delhi. Full address: [laxmi nagar vijay chowk delhi 110092 ]</p>
 
 <div class="cta">
   <h2 style="margin-top:0;border:none">Request a Quotation</h2>
